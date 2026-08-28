@@ -1,0 +1,41 @@
+c984_00.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:2.5
+ICON_01
+bounds:687,188,170,145
+ICON_02
+bounds:930,101,27,64
+offsets:68,43,143,145
+ICON_03
+bounds:687,2,77,135
+offsets:26,0,103,135
+ONLY
+bounds:2,2,683,340
+ONLY_light
+bounds:2,2,683,340
+Rectangle 1
+bounds:927,255,52,72
+offsets:11,15,78,93
+Rectangle 2
+bounds:913,16,61,84
+offsets:6,15,78,110
+Rectangle 3
+bounds:859,125,70,106
+offsets:0,4,78,110
+Rectangle 4
+bounds:840,16,73,108
+offsets:0,14,78,133
+Rectangle 5
+bounds:765,17,74,120
+offsets:1,5,78,133
+Rectangle 6
+bounds:859,230,69,81
+offsets:1,18,78,110
+Rectangle 7
+bounds:929,183,52,71
+offsets:11,13,78,93
+rotate:180
+backplate
+bounds:2,328,965,963
