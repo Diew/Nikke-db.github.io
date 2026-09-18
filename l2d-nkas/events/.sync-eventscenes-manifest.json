@@ -178,5 +178,23 @@
     "lastModified": "",
     "size": 5054656,
     "synced": "2026-09-16T20:10:02.360Z"
+  },
+  "EventScene_coinrushshowdown_02.skel": {
+    "etag": "\"ad97f37301cdf4e0a9838828e0577365\"",
+    "lastModified": "",
+    "size": 493333,
+    "synced": "2026-09-18T09:53:41.823Z"
+  },
+  "EventScene_coinrushshowdown_02.atlas": {
+    "etag": "\"0c9725094edb0ed1d1e701e322ed958c\"",
+    "lastModified": "",
+    "size": 17823,
+    "synced": "2026-09-18T09:53:41.899Z"
+  },
+  "EventScene_coinrushshowdown_02.png": {
+    "etag": "\"53f20c005695fe2ef1bd2da28455c77c\"",
+    "lastModified": "",
+    "size": 4628925,
+    "synced": "2026-09-18T09:53:42.040Z"
   }
 }
