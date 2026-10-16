@@ -1,40 +1,4 @@
 {
-  "c063_00/aim.atlas": {
-    "etag": "\"25cfba5c64c8699c2b325d095cb36eac\"",
-    "lastModified": "",
-    "size": 6345,
-    "synced": "2026-09-19T06:27:51.263Z"
-  },
-  "c063_00/aim.png": {
-    "etag": "\"096ea0c1fd3fcb8f37412ba169cb805e\"",
-    "lastModified": "",
-    "size": 2544092,
-    "synced": "2026-09-19T06:27:51.680Z"
-  },
-  "c063_00/aim.skel": {
-    "etag": "\"111cea9cbe2d73efe2e45934b43c2e8d\"",
-    "lastModified": "",
-    "size": 165093,
-    "synced": "2026-09-19T06:27:51.040Z"
-  },
-  "c063_00/cover.atlas": {
-    "etag": "\"849d48994a1fe2e5a34dbce728c72473\"",
-    "lastModified": "",
-    "size": 16880,
-    "synced": "2026-09-19T06:27:51.972Z"
-  },
-  "c063_00/cover.png": {
-    "etag": "\"01359d4e9e1ae315070f2310a597bbb1\"",
-    "lastModified": "",
-    "size": 3570338,
-    "synced": "2026-09-19T06:27:52.505Z"
-  },
-  "c063_00/cover.skel": {
-    "etag": "\"4f606bc2192a593ec3380185874a9888\"",
-    "lastModified": "",
-    "size": 322215,
-    "synced": "2026-09-19T06:27:51.734Z"
-  },
   "c404_00/aim.atlas": {
     "etag": "\"1b59eb4eee2bfe84c1dacd522a4581ee\"",
     "lastModified": "",
