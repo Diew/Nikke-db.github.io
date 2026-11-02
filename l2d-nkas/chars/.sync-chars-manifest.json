@@ -70,5 +70,23 @@
     "lastModified": "",
     "size": 218183,
     "synced": "2026-09-19T06:27:54.572Z"
+  },
+  "c949_00/idle.skel": {
+    "etag": "\"09b4d96102d5513aea833bcdd6b6f304\"",
+    "lastModified": "",
+    "size": 22655,
+    "synced": "2026-11-02T11:27:19.511Z"
+  },
+  "c949_00/idle.atlas": {
+    "etag": "\"ad2a858a36c41e28dff88ee69151d9e1\"",
+    "lastModified": "",
+    "size": 1014,
+    "synced": "2026-11-02T11:27:19.681Z"
+  },
+  "c949_00/idle.png": {
+    "etag": "\"ec0f485bf1a999b13f57e9c793dfa72f\"",
+    "lastModified": "",
+    "size": 2027360,
+    "synced": "2026-11-02T11:27:20.392Z"
   }
 }
